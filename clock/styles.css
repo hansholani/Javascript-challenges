@@ -37,3 +37,13 @@ body {
   width: 35%;
   left: 15%;
 }
+.center {
+  background: black;
+  height: 30px;
+  width: 30px;
+  margin-left: 50%;
+  margin-top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
